@@ -17,7 +17,7 @@ logging.basicConfig(
 )
 
 
-# Convert inches to cm
+# Convert inches to m
 def inches_to_m(height_inc):
     return round(height_inc * 0.0254, 2)
 
@@ -33,7 +33,7 @@ def csv_get_data(file):
     csv_df = pd.read_csv(file)
     csv_df["height"] = csv_df["height"].apply(inches_to_m)
     csv_df["weight"] = csv_df["weight"].apply(pounds_to_kg)
-    logging.info(f"Converted height to cm and weight to kg")
+    logging.info(f"Converted height to m and weight to kg")
     logging.info(f"Transformation complete to dataframe  for CSV: {file}")
     return csv_df
 
@@ -44,7 +44,7 @@ def json_get_data(file):
     json_df = pd.read_json(file, lines=True)
     json_df["height"] = json_df["height"].apply(inches_to_m)
     json_df["weight"] = json_df["weight"].apply(pounds_to_kg)
-    logging.info(f"Converted height to cm and weight to kg")
+    logging.info(f"Converted height to m and weight to kg")
     logging.info(f"Transformation complete to dataframe  for JSON: {file}")
     return json_df
 
@@ -61,7 +61,7 @@ def xml_get_data(file):
         weight = pounds_to_kg(float(person.find("weight").text))
         person_data.append({"name": name, "height": height, "weight": weight})
     xml_df = pd.DataFrame(person_data)
-    logging.info(f"Converted height to cm and weight to kg")
+    logging.info(f"Converted height to m and weight to kg")
     logging.info(f"Transformation complete to dataframe  for XML: {file}")
     return xml_df
     # xml_df = pd.read_xml(file)
@@ -76,15 +76,15 @@ def master_file_ETL(source_folder, destination_folder):
     logging.info("Searching Source Folder....")
     for file_path in glob.glob(source_folder):
         _, file_extension = os.path.splitext(file_path)
-        if file_extension == '.csv':
+        if file_extension == ".csv":
             logging.info(f"CSV file found{file_path}")
             csv_df_in = csv_get_data(file_path)
             dataframes_list.append(csv_df_in)
-        elif file_extension == '.xml':
+        elif file_extension == ".xml":
             logging.info(f"XML file found{file_path}")
             xml_df_in = xml_get_data(file_path)
             dataframes_list.append(xml_df_in)
-        elif file_extension == '.json':
+        elif file_extension == ".json":
             logging.info(f"JSON file found{file_path}")
             json_df_in = json_get_data(file_path)
             dataframes_list.append(json_df_in)
