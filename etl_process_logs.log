@@ -1,0 +1,196 @@
+2024-10-12 15:42:12,154 - INFO - Searching Source Folder....
+2024-10-12 15:42:12,155 - INFO - CSV file foundsource\source1.csv
+2024-10-12 15:42:12,155 - INFO - Extracting data from CSV: source\source1.csv
+2024-10-12 15:42:12,159 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:42:12,159 - INFO - Transformation complete to dataframe  for CSV: source\source1.csv
+2024-10-12 15:42:12,160 - INFO - JSON file foundsource\source1.json
+2024-10-12 15:42:12,160 - INFO - Extracting data from JSON: source\source1.json
+2024-10-12 15:42:12,165 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:42:12,165 - INFO - Transformation complete to dataframe  for JSON: source\source1.json
+2024-10-12 15:42:12,165 - INFO - XML file foundsource\source1.xml
+2024-10-12 15:42:12,165 - INFO - Extracting data from XML: source\source1.xml
+2024-10-12 15:42:12,166 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:42:12,166 - INFO - Transformation complete to dataframe  for XML: source\source1.xml
+2024-10-12 15:42:12,166 - INFO - CSV file foundsource\source2.csv
+2024-10-12 15:42:12,166 - INFO - Extracting data from CSV: source\source2.csv
+2024-10-12 15:42:12,168 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:42:12,168 - INFO - Transformation complete to dataframe  for CSV: source\source2.csv
+2024-10-12 15:42:12,168 - INFO - JSON file foundsource\source2.json
+2024-10-12 15:42:12,168 - INFO - Extracting data from JSON: source\source2.json
+2024-10-12 15:42:12,172 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:42:12,172 - INFO - Transformation complete to dataframe  for JSON: source\source2.json
+2024-10-12 15:42:12,172 - INFO - XML file foundsource\source2.xml
+2024-10-12 15:42:12,172 - INFO - Extracting data from XML: source\source2.xml
+2024-10-12 15:42:12,173 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:42:12,173 - INFO - Transformation complete to dataframe  for XML: source\source2.xml
+2024-10-12 15:42:12,173 - INFO - CSV file foundsource\source3.csv
+2024-10-12 15:42:12,173 - INFO - Extracting data from CSV: source\source3.csv
+2024-10-12 15:42:12,175 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:42:12,175 - INFO - Transformation complete to dataframe  for CSV: source\source3.csv
+2024-10-12 15:42:12,175 - INFO - JSON file foundsource\source3.json
+2024-10-12 15:42:12,175 - INFO - Extracting data from JSON: source\source3.json
+2024-10-12 15:42:12,178 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:42:12,179 - INFO - Transformation complete to dataframe  for JSON: source\source3.json
+2024-10-12 15:42:12,179 - INFO - XML file foundsource\source3.xml
+2024-10-12 15:42:12,179 - INFO - Extracting data from XML: source\source3.xml
+2024-10-12 15:42:12,179 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:42:12,179 - INFO - Transformation complete to dataframe  for XML: source\source3.xml
+2024-10-12 15:42:12,180 - INFO - Begin Load data into destination path..
+2024-10-12 15:42:18,622 - INFO - Searching Source Folder....
+2024-10-12 15:42:18,622 - INFO - CSV file foundsource\source1.csv
+2024-10-12 15:42:18,622 - INFO - Extracting data from CSV: source\source1.csv
+2024-10-12 15:42:18,627 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:42:18,627 - INFO - Transformation complete to dataframe  for CSV: source\source1.csv
+2024-10-12 15:42:18,627 - INFO - JSON file foundsource\source1.json
+2024-10-12 15:42:18,627 - INFO - Extracting data from JSON: source\source1.json
+2024-10-12 15:42:18,632 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:42:18,632 - INFO - Transformation complete to dataframe  for JSON: source\source1.json
+2024-10-12 15:42:18,632 - INFO - XML file foundsource\source1.xml
+2024-10-12 15:42:18,632 - INFO - Extracting data from XML: source\source1.xml
+2024-10-12 15:42:18,633 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:42:18,633 - INFO - Transformation complete to dataframe  for XML: source\source1.xml
+2024-10-12 15:42:18,633 - INFO - CSV file foundsource\source2.csv
+2024-10-12 15:42:18,633 - INFO - Extracting data from CSV: source\source2.csv
+2024-10-12 15:42:18,635 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:42:18,635 - INFO - Transformation complete to dataframe  for CSV: source\source2.csv
+2024-10-12 15:42:18,635 - INFO - JSON file foundsource\source2.json
+2024-10-12 15:42:18,635 - INFO - Extracting data from JSON: source\source2.json
+2024-10-12 15:42:18,639 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:42:18,639 - INFO - Transformation complete to dataframe  for JSON: source\source2.json
+2024-10-12 15:42:18,639 - INFO - XML file foundsource\source2.xml
+2024-10-12 15:42:18,639 - INFO - Extracting data from XML: source\source2.xml
+2024-10-12 15:42:18,640 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:42:18,641 - INFO - Transformation complete to dataframe  for XML: source\source2.xml
+2024-10-12 15:42:18,641 - INFO - CSV file foundsource\source3.csv
+2024-10-12 15:42:18,641 - INFO - Extracting data from CSV: source\source3.csv
+2024-10-12 15:42:18,643 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:42:18,643 - INFO - Transformation complete to dataframe  for CSV: source\source3.csv
+2024-10-12 15:42:18,643 - INFO - JSON file foundsource\source3.json
+2024-10-12 15:42:18,643 - INFO - Extracting data from JSON: source\source3.json
+2024-10-12 15:42:18,646 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:42:18,646 - INFO - Transformation complete to dataframe  for JSON: source\source3.json
+2024-10-12 15:42:18,647 - INFO - XML file foundsource\source3.xml
+2024-10-12 15:42:18,647 - INFO - Extracting data from XML: source\source3.xml
+2024-10-12 15:42:18,647 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:42:18,647 - INFO - Transformation complete to dataframe  for XML: source\source3.xml
+2024-10-12 15:42:18,648 - INFO - Begin Load data into destination path..
+2024-10-12 15:42:18,650 - INFO - Data successfully loaded to: out/final_out.csv
+2024-10-12 15:46:16,520 - INFO - Searching Source Folder....
+2024-10-12 15:46:16,520 - INFO - CSV file foundsource\source1.csv
+2024-10-12 15:46:16,520 - INFO - Extracting data from CSV: source\source1.csv
+2024-10-12 15:46:16,524 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:46:16,524 - INFO - Transformation complete to dataframe  for CSV: source\source1.csv
+2024-10-12 15:48:45,646 - INFO - Searching Source Folder....
+2024-10-12 15:48:45,646 - INFO - CSV file foundsource\source1.csv
+2024-10-12 15:48:45,647 - INFO - Extracting data from CSV: source\source1.csv
+2024-10-12 15:48:45,651 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:48:45,651 - INFO - Transformation complete to dataframe  for CSV: source\source1.csv
+2024-10-12 15:48:45,651 - INFO - JSON file foundsource\source1.json
+2024-10-12 15:48:45,651 - INFO - Extracting data from JSON: source\source1.json
+2024-10-12 15:48:45,656 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:48:45,656 - INFO - Transformation complete to dataframe  for JSON: source\source1.json
+2024-10-12 15:48:45,657 - INFO - XML file foundsource\source1.xml
+2024-10-12 15:48:45,657 - INFO - Extracting data from XML: source\source1.xml
+2024-10-12 15:48:45,657 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:48:45,657 - INFO - Transformation complete to dataframe  for XML: source\source1.xml
+2024-10-12 15:48:45,658 - INFO - CSV file foundsource\source2.csv
+2024-10-12 15:48:45,658 - INFO - Extracting data from CSV: source\source2.csv
+2024-10-12 15:48:45,660 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:48:45,660 - INFO - Transformation complete to dataframe  for CSV: source\source2.csv
+2024-10-12 15:48:45,660 - INFO - JSON file foundsource\source2.json
+2024-10-12 15:48:45,660 - INFO - Extracting data from JSON: source\source2.json
+2024-10-12 15:48:45,664 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:48:45,664 - INFO - Transformation complete to dataframe  for JSON: source\source2.json
+2024-10-12 15:48:45,664 - INFO - XML file foundsource\source2.xml
+2024-10-12 15:48:45,664 - INFO - Extracting data from XML: source\source2.xml
+2024-10-12 15:48:45,664 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:48:45,665 - INFO - Transformation complete to dataframe  for XML: source\source2.xml
+2024-10-12 15:48:45,665 - INFO - CSV file foundsource\source3.csv
+2024-10-12 15:48:45,665 - INFO - Extracting data from CSV: source\source3.csv
+2024-10-12 15:48:45,667 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:48:45,667 - INFO - Transformation complete to dataframe  for CSV: source\source3.csv
+2024-10-12 15:48:45,667 - INFO - JSON file foundsource\source3.json
+2024-10-12 15:48:45,667 - INFO - Extracting data from JSON: source\source3.json
+2024-10-12 15:48:45,671 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:48:45,671 - INFO - Transformation complete to dataframe  for JSON: source\source3.json
+2024-10-12 15:48:45,671 - INFO - XML file foundsource\source3.xml
+2024-10-12 15:48:45,671 - INFO - Extracting data from XML: source\source3.xml
+2024-10-12 15:48:45,672 - INFO - Converted height to cm and weight to kg
+2024-10-12 15:48:45,672 - INFO - Transformation complete to dataframe  for XML: source\source3.xml
+2024-10-12 16:11:58,405 - INFO - Searching Source Folder....
+2024-10-12 16:11:58,405 - INFO - CSV file foundsource\source1.csv
+2024-10-12 16:11:58,405 - INFO - Extracting data from CSV: source\source1.csv
+2024-10-12 16:11:58,409 - INFO - Converted height to cm and weight to kg
+2024-10-12 16:11:58,409 - INFO - Transformation complete to dataframe  for CSV: source\source1.csv
+2024-10-12 16:11:58,409 - INFO - JSON file foundsource\source1.json
+2024-10-12 16:11:58,409 - INFO - Extracting data from JSON: source\source1.json
+2024-10-12 16:11:58,414 - INFO - Converted height to cm and weight to kg
+2024-10-12 16:11:58,414 - INFO - Transformation complete to dataframe  for JSON: source\source1.json
+2024-10-12 16:11:58,414 - INFO - XML file foundsource\source1.xml
+2024-10-12 16:11:58,414 - INFO - Extracting data from XML: source\source1.xml
+2024-10-12 16:11:58,415 - INFO - Converted height to cm and weight to kg
+2024-10-12 16:11:58,415 - INFO - Transformation complete to dataframe  for XML: source\source1.xml
+2024-10-12 16:11:58,415 - INFO - CSV file foundsource\source2.csv
+2024-10-12 16:11:58,416 - INFO - Extracting data from CSV: source\source2.csv
+2024-10-12 16:11:58,418 - INFO - Converted height to cm and weight to kg
+2024-10-12 16:11:58,418 - INFO - Transformation complete to dataframe  for CSV: source\source2.csv
+2024-10-12 16:11:58,418 - INFO - JSON file foundsource\source2.json
+2024-10-12 16:11:58,418 - INFO - Extracting data from JSON: source\source2.json
+2024-10-12 16:11:58,422 - INFO - Converted height to cm and weight to kg
+2024-10-12 16:11:58,422 - INFO - Transformation complete to dataframe  for JSON: source\source2.json
+2024-10-12 16:11:58,422 - INFO - XML file foundsource\source2.xml
+2024-10-12 16:11:58,422 - INFO - Extracting data from XML: source\source2.xml
+2024-10-12 16:11:58,423 - INFO - Converted height to cm and weight to kg
+2024-10-12 16:11:58,423 - INFO - Transformation complete to dataframe  for XML: source\source2.xml
+2024-10-12 16:11:58,423 - INFO - CSV file foundsource\source3.csv
+2024-10-12 16:11:58,423 - INFO - Extracting data from CSV: source\source3.csv
+2024-10-12 16:11:58,426 - INFO - Converted height to cm and weight to kg
+2024-10-12 16:11:58,426 - INFO - Transformation complete to dataframe  for CSV: source\source3.csv
+2024-10-12 16:11:58,426 - INFO - JSON file foundsource\source3.json
+2024-10-12 16:11:58,426 - INFO - Extracting data from JSON: source\source3.json
+2024-10-12 16:11:58,430 - INFO - Converted height to cm and weight to kg
+2024-10-12 16:11:58,430 - INFO - Transformation complete to dataframe  for JSON: source\source3.json
+2024-10-12 16:11:58,430 - INFO - XML file foundsource\source3.xml
+2024-10-12 16:11:58,430 - INFO - Extracting data from XML: source\source3.xml
+2024-10-12 16:11:58,431 - INFO - Converted height to cm and weight to kg
+2024-10-12 16:11:58,431 - INFO - Transformation complete to dataframe  for XML: source\source3.xml
+2024-10-12 16:11:58,432 - INFO - Begin Load data into destination path..
+2024-10-12 16:12:10,064 - INFO - Searching Source Folder....
+2024-10-12 16:12:10,065 - INFO - CSV file foundsource\source1.csv
+2024-10-12 16:12:10,065 - INFO - Extracting data from CSV: source\source1.csv
+2024-10-12 16:12:10,069 - INFO - Converted height to cm and weight to kg
+2024-10-12 16:12:10,069 - INFO - Transformation complete to dataframe  for CSV: source\source1.csv
+2024-10-12 16:12:10,069 - INFO - JSON file foundsource\source1.json
+2024-10-12 16:12:10,069 - INFO - Extracting data from JSON: source\source1.json
+2024-10-12 16:12:10,074 - INFO - Converted height to cm and weight to kg
+2024-10-12 16:12:10,074 - INFO - Transformation complete to dataframe  for JSON: source\source1.json
+2024-10-12 16:12:10,075 - INFO - XML file foundsource\source1.xml
+2024-10-12 16:12:10,075 - INFO - Extracting data from XML: source\source1.xml
+2024-10-12 16:12:10,075 - INFO - Converted height to cm and weight to kg
+2024-10-12 16:12:10,075 - INFO - Transformation complete to dataframe  for XML: source\source1.xml
+2024-10-12 16:12:10,075 - INFO - CSV file foundsource\source2.csv
+2024-10-12 16:12:10,075 - INFO - Extracting data from CSV: source\source2.csv
+2024-10-12 16:12:10,078 - INFO - Converted height to cm and weight to kg
+2024-10-12 16:12:10,078 - INFO - Transformation complete to dataframe  for CSV: source\source2.csv
+2024-10-12 16:12:10,078 - INFO - JSON file foundsource\source2.json
+2024-10-12 16:12:10,078 - INFO - Extracting data from JSON: source\source2.json
+2024-10-12 16:12:10,081 - INFO - Converted height to cm and weight to kg
+2024-10-12 16:12:10,081 - INFO - Transformation complete to dataframe  for JSON: source\source2.json
+2024-10-12 16:12:10,081 - INFO - XML file foundsource\source2.xml
+2024-10-12 16:12:10,081 - INFO - Extracting data from XML: source\source2.xml
+2024-10-12 16:12:10,082 - INFO - Converted height to cm and weight to kg
+2024-10-12 16:12:10,082 - INFO - Transformation complete to dataframe  for XML: source\source2.xml
+2024-10-12 16:12:10,082 - INFO - CSV file foundsource\source3.csv
+2024-10-12 16:12:10,082 - INFO - Extracting data from CSV: source\source3.csv
+2024-10-12 16:12:10,084 - INFO - Converted height to cm and weight to kg
+2024-10-12 16:12:10,084 - INFO - Transformation complete to dataframe  for CSV: source\source3.csv
+2024-10-12 16:12:10,084 - INFO - JSON file foundsource\source3.json
+2024-10-12 16:12:10,085 - INFO - Extracting data from JSON: source\source3.json
+2024-10-12 16:12:10,088 - INFO - Converted height to cm and weight to kg
+2024-10-12 16:12:10,088 - INFO - Transformation complete to dataframe  for JSON: source\source3.json
+2024-10-12 16:12:10,088 - INFO - XML file foundsource\source3.xml
+2024-10-12 16:12:10,088 - INFO - Extracting data from XML: source\source3.xml
+2024-10-12 16:12:10,089 - INFO - Converted height to cm and weight to kg
+2024-10-12 16:12:10,089 - INFO - Transformation complete to dataframe  for XML: source\source3.xml
+2024-10-12 16:12:10,090 - INFO - Begin Load data into destination path..
+2024-10-12 16:12:10,092 - INFO - Data successfully loaded to: out/final_out.csv
